@@ -1,0 +1,4 @@
+frida
+test
+pwd
+ll
