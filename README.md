@@ -4,3 +4,4 @@ line_2
 1234
 pwd
 test1
+test2
